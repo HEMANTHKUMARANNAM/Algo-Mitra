@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Algo-Mitra/static/css/main.ab689e73.css",
-    "main.js": "/Algo-Mitra/static/js/main.6ae750af.js",
-    "static/js/453.92f5f9fa.chunk.js": "/Algo-Mitra/static/js/453.92f5f9fa.chunk.js",
+    "main.js": "/Algo-Mitra/static/js/main.ede25656.js",
+    "static/js/453.51030bcc.chunk.js": "/Algo-Mitra/static/js/453.51030bcc.chunk.js",
     "index.html": "/Algo-Mitra/index.html",
     "main.ab689e73.css.map": "/Algo-Mitra/static/css/main.ab689e73.css.map",
-    "main.6ae750af.js.map": "/Algo-Mitra/static/js/main.6ae750af.js.map",
-    "453.92f5f9fa.chunk.js.map": "/Algo-Mitra/static/js/453.92f5f9fa.chunk.js.map"
+    "main.ede25656.js.map": "/Algo-Mitra/static/js/main.ede25656.js.map",
+    "453.51030bcc.chunk.js.map": "/Algo-Mitra/static/js/453.51030bcc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab689e73.css",
-    "static/js/main.6ae750af.js"
+    "static/js/main.ede25656.js"
   ]
 }
