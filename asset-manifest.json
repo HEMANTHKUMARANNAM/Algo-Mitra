@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Algo-Mitra/static/css/main.607804b5.css",
-    "main.js": "/Algo-Mitra/static/js/main.2ca945ae.js",
+    "main.js": "/Algo-Mitra/static/js/main.5b611648.js",
     "static/js/7614.9b5f3791.chunk.js": "/Algo-Mitra/static/js/7614.9b5f3791.chunk.js",
     "static/js/9421.dafc0a3c.chunk.js": "/Algo-Mitra/static/js/9421.dafc0a3c.chunk.js",
     "static/js/9553.96ba7812.chunk.js": "/Algo-Mitra/static/js/9553.96ba7812.chunk.js",
@@ -63,7 +63,7 @@
     "static/js/3063.2f1937a0.chunk.js": "/Algo-Mitra/static/js/3063.2f1937a0.chunk.js",
     "static/js/3767.16e21d18.chunk.js": "/Algo-Mitra/static/js/3767.16e21d18.chunk.js",
     "static/js/1023.85ae1367.chunk.js": "/Algo-Mitra/static/js/1023.85ae1367.chunk.js",
-    "static/js/3121.215bf605.chunk.js": "/Algo-Mitra/static/js/3121.215bf605.chunk.js",
+    "static/js/3121.9c589797.chunk.js": "/Algo-Mitra/static/js/3121.9c589797.chunk.js",
     "static/js/3633.fb3b7f2d.chunk.js": "/Algo-Mitra/static/js/3633.fb3b7f2d.chunk.js",
     "static/js/2151.37558188.chunk.js": "/Algo-Mitra/static/js/2151.37558188.chunk.js",
     "static/js/1655.0ddae319.chunk.js": "/Algo-Mitra/static/js/1655.0ddae319.chunk.js",
@@ -90,11 +90,16 @@
     "static/js/3852.49dcffaa.chunk.js": "/Algo-Mitra/static/js/3852.49dcffaa.chunk.js",
     "static/js/2756.a6c59568.chunk.js": "/Algo-Mitra/static/js/2756.a6c59568.chunk.js",
     "static/js/6453.bb30a982.chunk.js": "/Algo-Mitra/static/js/6453.bb30a982.chunk.js",
+    "static/media/problems.png": "/Algo-Mitra/static/media/problems.a8b792adb4a6f8c7ebdf.png",
+    "static/media/algorithms.png": "/Algo-Mitra/static/media/algorithms.deed4a66ed98a171817c.png",
+    "static/media/others.png": "/Algo-Mitra/static/media/others.001443573c3be3f68129.png",
+    "static/media/Data points - light.gif": "/Algo-Mitra/static/media/Data points - light.25f88ccd0b87d2b32f78.gif",
+    "static/media/Data points.gif": "/Algo-Mitra/static/media/Data points.7ac37fa0541b73e9e823.gif",
     "static/media/sigin.jpg": "/Algo-Mitra/static/media/sigin.a11946746eb55bdc35e7.jpg",
     "static/media/codicon.ttf": "/Algo-Mitra/static/media/codicon.f6283f7ccaed1249d9eb.ttf",
     "index.html": "/Algo-Mitra/index.html",
     "main.607804b5.css.map": "/Algo-Mitra/static/css/main.607804b5.css.map",
-    "main.2ca945ae.js.map": "/Algo-Mitra/static/js/main.2ca945ae.js.map",
+    "main.5b611648.js.map": "/Algo-Mitra/static/js/main.5b611648.js.map",
     "7614.9b5f3791.chunk.js.map": "/Algo-Mitra/static/js/7614.9b5f3791.chunk.js.map",
     "9553.96ba7812.chunk.js.map": "/Algo-Mitra/static/js/9553.96ba7812.chunk.js.map",
     "4473.c7729185.chunk.js.map": "/Algo-Mitra/static/js/4473.c7729185.chunk.js.map",
@@ -155,7 +160,7 @@
     "3063.2f1937a0.chunk.js.map": "/Algo-Mitra/static/js/3063.2f1937a0.chunk.js.map",
     "3767.16e21d18.chunk.js.map": "/Algo-Mitra/static/js/3767.16e21d18.chunk.js.map",
     "1023.85ae1367.chunk.js.map": "/Algo-Mitra/static/js/1023.85ae1367.chunk.js.map",
-    "3121.215bf605.chunk.js.map": "/Algo-Mitra/static/js/3121.215bf605.chunk.js.map",
+    "3121.9c589797.chunk.js.map": "/Algo-Mitra/static/js/3121.9c589797.chunk.js.map",
     "3633.fb3b7f2d.chunk.js.map": "/Algo-Mitra/static/js/3633.fb3b7f2d.chunk.js.map",
     "2151.37558188.chunk.js.map": "/Algo-Mitra/static/js/2151.37558188.chunk.js.map",
     "1655.0ddae319.chunk.js.map": "/Algo-Mitra/static/js/1655.0ddae319.chunk.js.map",
@@ -185,6 +190,6 @@
   },
   "entrypoints": [
     "static/css/main.607804b5.css",
-    "static/js/main.2ca945ae.js"
+    "static/js/main.5b611648.js"
   ]
 }
