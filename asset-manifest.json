@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Algo-Mitra/static/css/main.607804b5.css",
-    "main.js": "/Algo-Mitra/static/js/main.01dd837c.js",
+    "main.js": "/Algo-Mitra/static/js/main.406b3edb.js",
     "static/js/7614.9b5f3791.chunk.js": "/Algo-Mitra/static/js/7614.9b5f3791.chunk.js",
     "static/js/9421.dafc0a3c.chunk.js": "/Algo-Mitra/static/js/9421.dafc0a3c.chunk.js",
     "static/js/9553.96ba7812.chunk.js": "/Algo-Mitra/static/js/9553.96ba7812.chunk.js",
@@ -99,7 +99,7 @@
     "static/media/codicon.ttf": "/Algo-Mitra/static/media/codicon.f6283f7ccaed1249d9eb.ttf",
     "index.html": "/Algo-Mitra/index.html",
     "main.607804b5.css.map": "/Algo-Mitra/static/css/main.607804b5.css.map",
-    "main.01dd837c.js.map": "/Algo-Mitra/static/js/main.01dd837c.js.map",
+    "main.406b3edb.js.map": "/Algo-Mitra/static/js/main.406b3edb.js.map",
     "7614.9b5f3791.chunk.js.map": "/Algo-Mitra/static/js/7614.9b5f3791.chunk.js.map",
     "9553.96ba7812.chunk.js.map": "/Algo-Mitra/static/js/9553.96ba7812.chunk.js.map",
     "4473.c7729185.chunk.js.map": "/Algo-Mitra/static/js/4473.c7729185.chunk.js.map",
@@ -190,6 +190,6 @@
   },
   "entrypoints": [
     "static/css/main.607804b5.css",
-    "static/js/main.01dd837c.js"
+    "static/js/main.406b3edb.js"
   ]
 }
