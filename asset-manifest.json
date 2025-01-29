@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Algo-Mitra/static/css/main.a03b1152.css",
-    "main.js": "/Algo-Mitra/static/js/main.7002fa0f.js",
+    "main.js": "/Algo-Mitra/static/js/main.7a9a958e.js",
     "static/js/7614.49ab8270.chunk.js": "/Algo-Mitra/static/js/7614.49ab8270.chunk.js",
     "static/js/8573.aee6d1bf.chunk.js": "/Algo-Mitra/static/js/8573.aee6d1bf.chunk.js",
     "static/js/273.65111814.chunk.js": "/Algo-Mitra/static/js/273.65111814.chunk.js",
@@ -118,7 +118,7 @@
     "static/media/Data points-rafiki.svg": "/Algo-Mitra/static/media/Data points-rafiki.33df05852486ec42feb9f35e3e599b50.svg",
     "index.html": "/Algo-Mitra/index.html",
     "main.a03b1152.css.map": "/Algo-Mitra/static/css/main.a03b1152.css.map",
-    "main.7002fa0f.js.map": "/Algo-Mitra/static/js/main.7002fa0f.js.map",
+    "main.7a9a958e.js.map": "/Algo-Mitra/static/js/main.7a9a958e.js.map",
     "7614.49ab8270.chunk.js.map": "/Algo-Mitra/static/js/7614.49ab8270.chunk.js.map",
     "273.65111814.chunk.js.map": "/Algo-Mitra/static/js/273.65111814.chunk.js.map",
     "3049.1d9e6c10.chunk.js.map": "/Algo-Mitra/static/js/3049.1d9e6c10.chunk.js.map",
@@ -223,6 +223,6 @@
   },
   "entrypoints": [
     "static/css/main.a03b1152.css",
-    "static/js/main.7002fa0f.js"
+    "static/js/main.7a9a958e.js"
   ]
 }
