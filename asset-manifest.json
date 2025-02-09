@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Algo-Mitra/static/css/main.a03b1152.css",
-    "main.js": "/Algo-Mitra/static/js/main.7a9a958e.js",
+    "main.js": "/Algo-Mitra/static/js/main.36e1cde0.js",
     "static/js/7614.49ab8270.chunk.js": "/Algo-Mitra/static/js/7614.49ab8270.chunk.js",
     "static/js/8573.aee6d1bf.chunk.js": "/Algo-Mitra/static/js/8573.aee6d1bf.chunk.js",
     "static/js/273.65111814.chunk.js": "/Algo-Mitra/static/js/273.65111814.chunk.js",
@@ -111,14 +111,15 @@
     "static/media/Data points.gif": "/Algo-Mitra/static/media/Data points.bef563a7c9a20d78f696.gif",
     "static/media/Data points - light.gif": "/Algo-Mitra/static/media/Data points - light.25f88ccd0b87d2b32f78.gif",
     "static/media/9233845_4117020.svg": "/Algo-Mitra/static/media/9233845_4117020.e186a87dbc05166e53409ec25bf74daf.svg",
-    "static/media/7967811_3819075 4.svg": "/Algo-Mitra/static/media/7967811_3819075 4.e1d766da23ddae58121b1567e461c333.svg",
+    "static/media/7967811_3819075 4.svg": "/Algo-Mitra/static/media/7967811_3819075 4.789c7c69da3fd826885db901b9cdf02a.svg",
     "static/media/codicon.ttf": "/Algo-Mitra/static/media/codicon.f6283f7ccaed1249d9eb.ttf",
+    "static/media/9233873_4119037.svg": "/Algo-Mitra/static/media/9233873_4119037.9d9aef29ce41a2533bf5c0ccd47c5079.svg",
     "static/media/sadgirl.svg": "/Algo-Mitra/static/media/sadgirl.5ab2e3e1e23d68b4ae072f63adc4e438.svg",
     "static/media/Data points-pana.svg": "/Algo-Mitra/static/media/Data points-pana.58c0455aeffe906b2a3e0a3354b0991f.svg",
     "static/media/Data points-rafiki.svg": "/Algo-Mitra/static/media/Data points-rafiki.33df05852486ec42feb9f35e3e599b50.svg",
     "index.html": "/Algo-Mitra/index.html",
     "main.a03b1152.css.map": "/Algo-Mitra/static/css/main.a03b1152.css.map",
-    "main.7a9a958e.js.map": "/Algo-Mitra/static/js/main.7a9a958e.js.map",
+    "main.36e1cde0.js.map": "/Algo-Mitra/static/js/main.36e1cde0.js.map",
     "7614.49ab8270.chunk.js.map": "/Algo-Mitra/static/js/7614.49ab8270.chunk.js.map",
     "273.65111814.chunk.js.map": "/Algo-Mitra/static/js/273.65111814.chunk.js.map",
     "3049.1d9e6c10.chunk.js.map": "/Algo-Mitra/static/js/3049.1d9e6c10.chunk.js.map",
@@ -223,6 +224,6 @@
   },
   "entrypoints": [
     "static/css/main.a03b1152.css",
-    "static/js/main.7a9a958e.js"
+    "static/js/main.36e1cde0.js"
   ]
 }
